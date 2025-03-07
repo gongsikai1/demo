@@ -1,0 +1,1 @@
+import{_ as a,c as e,a as o,o as t}from"./index-DpYZfZlD.js";const c={},n={class:"about"},r={key:0,class:"about-text"},_={key:1,class:"about-text"};function i(s,u){return t(),e("div",n,[s.$store.state.lang==="cn"?(t(),e("h1",r,"这是关于页面")):o("",!0),s.$store.state.lang==="en"?(t(),e("h1",_,"This is the About page.")):o("",!0)])}const d=a(c,[["render",i]]);export{d as default};
